@@ -1,10 +1,18 @@
-# CPSC__4800 - Software installation
-in this tuorial, we will be providing instruction on how to install Git
-# Installation note
-if you have aleady installed Git or Python related packages please unistall these and follow the instructions below to reinstall them
+# Project Title ( test 1 )
+Simple overview of the project.
+# Description
+An in-depth para
+gragh abouve your project and pverview of use.
+# Getting Started
+Depenedencies
+- Decribe any prerequisites, libraries, OS version, etc, need before intalling program.
+- ex. Windows 10
 
-Table of Constents
-- GitHub
-- Git
-- Getting and Installing Phyton
-- Installing PostgreSQL 
+Installing
+
+- How/ where to download your program
+- Any modifications needed to be made to files/ folders
+code blocks for commands
+
+License
+This project is licensed under the AMIR License - see the LICENSE.me file for details
